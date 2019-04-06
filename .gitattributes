@@ -1,0 +1,4 @@
+libexec/gcc/arm-linux-gnueabi/9.0.1/cc1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/arm-linux-gnueabi/9.0.1/lto1 filter=lfs diff=lfs merge=lfs -text
+libexec/gcc/arm-linux-gnueabi/9.0.1/cc1plus filter=lfs diff=lfs merge=lfs -text
+arm-linux-gnueabi/lib64/libstdc++.a filter=lfs diff=lfs merge=lfs -text
